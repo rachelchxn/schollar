@@ -27,6 +27,62 @@ const Test = () => {
                 {text:'Capital Gains Income', correct: false},
                 {text:'Royalty Income', correct: false}
             ]
+        },
+        {question:'In terms of interest, the "principal" is...',
+            answer: [
+                {text:'The initial amount you put in', correct: true},
+                {text:'The amount of interest you earn', correct: false},
+                {text:'The rate of interest', correct: false},
+                {text:'The inital amount + interest earned', correct: false}
+            ]
+        },
+        {question:'Which of the following is FALSE about credit score?',
+            answer: [
+                {text:'It represents the risk associated with lending money to an individual', correct: false},
+                {text:'It is measured on a scale of 0 to 900', correct: false},
+                {text:'The lower your score, the better it is', correct: true},
+                {text:'Credit scores are important', correct: false}
+            ]
+        },
+        {question:'What does "RESP" stand for?',
+            answer: [
+                {text:'Refundable External Savings Plan', correct: false},
+                {text:'Regional Economic Savings Plan', correct: false},
+                {text:'Retirement Endowment Savings Plan', correct: false},
+                {text:'Registered Education Savings Plan', correct: true}
+            ]
+        },
+        {question:'Which of the following is a form of non-refundable monetary support given to someone to help fund their post-secondary education?',
+            answer: [
+                {text:'Loan', correct: false},
+                {text:'Mortgage', correct: false},
+                {text:'Bursary', correct: true},
+                {text:'Credit', correct: false}
+            ]
+        },
+        {question:'The total sum of all forms of earnings of an individual or household is...',
+            answer: [
+                {text:'Savings', correct: false},
+                {text:'Income Stream', correct: false},
+                {text:'Gross Income', correct: true},
+                {text:'Net Income', correct: false}
+            ]
+        },
+        {question:'Co-op programs are beneficial because...',
+            answer: [
+                {text:'You can earn money that will help pay for school', correct: false},
+                {text:'You get real work experience before even graduating', correct: false},
+                {text:'You have the opportunity to learn from industry professionals', correct: false},
+                {text:'All of the above', correct: true}
+            ]
+        },
+        {question:"If you're shopping with friends and you want to buy a purse you that costs most of your money, you should...",
+            answer: [
+                {text:'Buy it right away', correct: false},
+                {text:'Get your friend to pay for you', correct: false},
+                {text:'Wait a few days and see if you still want it', correct: true},
+                {text:'Steal it and hope no one catches you', correct: false}
+            ]
         }
     ]
 
@@ -77,7 +133,7 @@ const Test = () => {
                 <li key={answer.text} onClick={() => optionClicked(answer.correct)} className={showNext && answer.correct.toString()} >{answer.text}</li>
             ))}
 
-                <h1 className='current-score'>Current Score:<span className='score'>{score}/3</span><span>{showNext && <button onClick={handleNext}>Next Question</button>}</span></h1>
+                <h1 className='current-score'>Current Score:<span className='score'>{score}/10</span><span>{showNext && <button onClick={handleNext}>Next Question</button>}</span></h1>
                 
         </div>
         }
