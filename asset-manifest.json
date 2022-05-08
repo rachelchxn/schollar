@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/schollar/static/css/main.f4ae6eee.css",
-    "main.js": "/schollar/static/js/main.0e00f77f.js",
+    "main.css": "/schollar/static/css/main.6af8a9ef.css",
+    "main.js": "/schollar/static/js/main.033106d5.js",
     "static/js/787.0acfafb5.chunk.js": "/schollar/static/js/787.0acfafb5.chunk.js",
     "static/media/school-illustration.svg": "/schollar/static/media/school-illustration.f4b6a3a0c0d87ebe9c0b3c1bf0bbd8d4.svg",
     "static/media/home-illustration.svg": "/schollar/static/media/home-illustration.9538d5cab5ab1f71180baec4634d3564.svg",
@@ -12,12 +12,12 @@
     "static/media/money-illustration.svg": "/schollar/static/media/money-illustration.0e9fa85651c38d44dd13ab6cbbff3153.svg",
     "static/media/logo.svg": "/schollar/static/media/logo.f2c2017dc4d83403d5ea3780eb70cc3d.svg",
     "index.html": "/schollar/index.html",
-    "main.f4ae6eee.css.map": "/schollar/static/css/main.f4ae6eee.css.map",
-    "main.0e00f77f.js.map": "/schollar/static/js/main.0e00f77f.js.map",
+    "main.6af8a9ef.css.map": "/schollar/static/css/main.6af8a9ef.css.map",
+    "main.033106d5.js.map": "/schollar/static/js/main.033106d5.js.map",
     "787.0acfafb5.chunk.js.map": "/schollar/static/js/787.0acfafb5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4ae6eee.css",
-    "static/js/main.0e00f77f.js"
+    "static/css/main.6af8a9ef.css",
+    "static/js/main.033106d5.js"
   ]
 }
