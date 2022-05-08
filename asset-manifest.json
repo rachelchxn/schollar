@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/schollar/static/css/main.f0d93bac.css",
-    "main.js": "/schollar/static/js/main.96f69072.js",
+    "main.js": "/schollar/static/js/main.a269ee55.js",
     "static/js/787.0acfafb5.chunk.js": "/schollar/static/js/787.0acfafb5.chunk.js",
     "static/media/school-illustration.svg": "/schollar/static/media/school-illustration.f4b6a3a0c0d87ebe9c0b3c1bf0bbd8d4.svg",
-    "static/media/home-illustration.svg": "/schollar/static/media/home-illustration.70345489a1b3fb0dea342aeb7eb196cf.svg",
+    "static/media/home-illustration.svg": "/schollar/static/media/home-illustration.9538d5cab5ab1f71180baec4634d3564.svg",
     "static/media/word-illustration.svg": "/schollar/static/media/word-illustration.e62fbdafde304805b39dad3f3a09a591.svg",
     "static/media/test-illustration.svg": "/schollar/static/media/test-illustration.92a930653873ea98d30485c388307118.svg",
     "static/media/basics-illustration.svg": "/schollar/static/media/basics-illustration.2518e48ef5c4f4aeb64768ed554f2baa.svg",
     "static/media/money-illustration.svg": "/schollar/static/media/money-illustration.0e9fa85651c38d44dd13ab6cbbff3153.svg",
-    "static/media/logo.svg": "/schollar/static/media/logo.d30744b3f7cdb53e3af48dc70f11c2d8.svg",
+    "static/media/logo.svg": "/schollar/static/media/logo.f2c2017dc4d83403d5ea3780eb70cc3d.svg",
     "index.html": "/schollar/index.html",
     "main.f0d93bac.css.map": "/schollar/static/css/main.f0d93bac.css.map",
-    "main.96f69072.js.map": "/schollar/static/js/main.96f69072.js.map",
+    "main.a269ee55.js.map": "/schollar/static/js/main.a269ee55.js.map",
     "787.0acfafb5.chunk.js.map": "/schollar/static/js/787.0acfafb5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0d93bac.css",
-    "static/js/main.96f69072.js"
+    "static/js/main.a269ee55.js"
   ]
 }
